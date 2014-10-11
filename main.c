@@ -1,5 +1,5 @@
 int main(int argc, const char *argv[])
 {
-	print("HelloGit\n");
+	print("add SSH key\n");
 	return 0;
 }
